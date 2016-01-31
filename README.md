@@ -2,7 +2,7 @@
 
 Repositório do grupo Vim-SP
 
-## [Eventos passados](/previous)
+## [Eventos anteriores](/previous)
 
 ## Críticas e Sugestões
 
