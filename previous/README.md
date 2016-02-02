@@ -4,4 +4,4 @@ Aqui estão as pastas de eventos passados. Você pode contribuir inserindo qualq
 
 :smile:
 
-[1-meetup-janeiro](1-meetup-vim-sp/1-meetup-vim-sp.md)
+[1-meetup-janeiro](1-meetup-vim-sp/1-meetup-janeiro.md)
