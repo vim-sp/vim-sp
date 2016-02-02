@@ -1,3 +1,6 @@
-#Diretório com arquivos e informações sobre eventos passados
+## Estrutura de pastas
 
-## [1 Meetup Vim-SP](./1-meetup-vim-sp)
+Aqui estão as pastas de eventos passados. Você pode contribuir inserindo qualquer informação interessante que ouviu ou comentou durante a edição.
+
+:smile:
+

@@ -6,16 +6,23 @@ Repositório do grupo Vim-SP
 
 ## Críticas e Sugestões
 
-Para fazer uma crítia ou sugestão crie uma [issue](https://github.com/vim-sp/vim-sp/issues) :)
+Para fazer uma crítica ou sugestão, crie uma [issue](https://github.com/vim-sp/vim-sp/issues) :)
+
+## Como contribuir
+
+ - Faça um FORK deste repositório. Caso precise de ajuda com o que é fork ou com GIT, aqui um tutorial completo com tudo que precisa saber: [Atlassian Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/);
+ - Faça suas adições e/ou modificações respeitando a atual estrutura de pastas para manter a ordem;
+ - A partir do **seu** fork, abra um Pull Request para que os membros possam olhar, opinar e até sugerir algumas coisas novas (trabalhar com todos alinhados salva gatinhos ao redor do mundo)
+ - Quando receber um :+1: como comentário em seu Pull Request, caso seja membro e tiver permissões de colocar sua alteração em **master**, faça isso com orgulho. Caso não tenha permissão para colocar sua alteração em master, não se preocupe, nós faremos isso com todo o cuidado do mundo e lhe agradecendo imensamente por ajudar na comunidade de VIM de São Paulo. :)
 
 ## Dicas, relatos ou outros
 
-Crie um arquivo markdown e faça um link aqui
+A partir das infos do tópico acima de **Como contribuir**, adicione seus arquivos e coloque-os aqui depois. :)
 
-- [Relato do Helio](/previous/relatos/helio.md)
-- [Relato do Marcelo](/previous/relatos/marcelopalladino.md)
-
+- [Relato do Helio](/previous/1-meetup-vim-sp/relatos//helio.md)
+- [Relato do Marcelo](/previous/1-meetup-vim-sp/relatos/marcelopalladino.md)
 
 Este Repo segue o [Contributor Covenant](http://contributor-covenant.org/)
 
 Licença [WFTPL](LICENSE)
+
