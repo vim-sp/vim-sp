@@ -14,3 +14,9 @@ Neovim (por: <a href="https://github.com/kassio" target="_blank">Kassion Borges<
 
 <a href="https://github.com/junegunn/fzf" target="_blank">FZF - Command Line Fuzzy Finder</a>
 
+## Dicas, relatos ou outros
+
+- [Relato do Helio](relatos/helio.md)
+- [Relato do Marcelo](relatos/marcelopalladino.md)
+
+
