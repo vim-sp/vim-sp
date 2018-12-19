@@ -1,4 +1,5 @@
 # Learning
+
 Aqui estão alguns links para aprendizagem. Você pode contribuir inserindo qualquer tutorial interessante que leu ou assistiu.
 
 ## Cursos
@@ -34,3 +35,5 @@ Aqui estão alguns links para aprendizagem. Você pode contribuir inserindo qual
 [VIM Adventures](https://vim-adventures.com/)
 
 [VIM - Aurelio Jargas / Verde](http://aurelio.net/vim/)
+
+[Mastering Vim Quickly Newsletter](https://masteringvim.com)
