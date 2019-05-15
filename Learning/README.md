@@ -8,7 +8,7 @@ Aqui estão alguns links para aprendizagem. Você pode contribuir inserindo qual
 
 ## Livros
 
-[VIM Book](https://www.gitbook.com/book/cassiobotaro/vimbook/details)
+[VIM Book](https://vimbook.gitbook.io/vimbook/)
 
 [VIM para Noobs](https://woliveiras.com.br/vimparanoobs/)
 
